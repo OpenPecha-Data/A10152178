@@ -1,0 +1,15 @@
+id: A10152178
+title: 'MSV 6,06: Nidāna'
+type: translation
+pechas:
+- I8E971E34
+- I996BB454
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:16:24.529312
+  last_modified_at: 2023-02-10 00:16:24.529329
+alignment_to_base:
+  I8E971E34/AAA6: 4C74
+  I996BB454/FF5F: 4C74
